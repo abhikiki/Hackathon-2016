@@ -1,0 +1,2 @@
+# Module com.hackathon.fmanage.custom.component.CustomDecimalTextField
+# RPC service class, partial path of RPC policy file
